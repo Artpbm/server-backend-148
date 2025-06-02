@@ -8,4 +8,3 @@ const server = http.createServer(app)
 server.listen(port, () => {
     return console.log(`App cuzinho listening on port ${port}`)
 })
-
